@@ -141,12 +141,9 @@ p{
 .flexcontent-b{
     width: 40%;
     
-    
-
 }
 .flexcontent-s{
     width: 60%;
-   
 
 }
 .color-sfondo{
@@ -206,6 +203,22 @@ footer{
     padding: 10px 15px;
     font-size: 30px;
 }
+.col-ita{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.bandiera{
+    width: 20px;
+  
+}
+i{
+    color: white;
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+
 .footer-list2{
     width: 70%;
    
