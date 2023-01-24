@@ -50,9 +50,7 @@ nav{
    padding: 10px;
    
 }
-.col{
-    border: dashed 2px black;
-}
+
 ul{
   list-style: none;
   display: flex; 
@@ -83,7 +81,7 @@ li{
     width: 100%;
     display: flex;
     margin: 20px;
-    border: dashed 2px;
+    
     max-width: 800px;
 
 }
@@ -95,6 +93,7 @@ li{
 }
 h2{
     margin: 20px;
+    font-size: 50px;
 }
 p{
     margin-bottom: 20px;
@@ -111,7 +110,7 @@ p{
 }
 .flexcontent{
     
-    border: dashed 2px;
+    
     height: 400px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -134,11 +133,10 @@ p{
     height: 500px;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
    
-   
-    
-   
-
 }
 .flexcontent-b{
     width: 40%;
@@ -158,27 +156,47 @@ p{
 .col-quattro{
     display: flex;
     justify-content: center;
-    
     max-width: 1170px;
     margin: auto;
     
 }
 .jumbotron1{
-    background-color: rgb(53, 176, 28);
-    height: 500px;
+    
+    height: 800px;
     width: 100%;
     display: flex;
     
-    border: dashed 2px;
     max-width: 1200px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.title2{
+    text-align: center;
+    margin-left: 100px;
+    
+}
+.jumbotron1 h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    
+}
+.jumbotron1 h3{
+    margin-bottom: 30px;
+}
+
+.jumbotron1 span{
+    background-color: blueviolet;
+    color: white;
+}
+footer{
+    background-color: black;
 }
 .footer-list1{
     height: 400px;
     background-color: blue;
     width: 25%;
-    border: dashed 2px;
+    
 
 }
 .footer-list2{
@@ -200,6 +218,9 @@ p{
     background-color: black;
     padding-top: 20px;
     padding-bottom: 20px;
+    max-width: 1175px;
+    margin: auto;
+    display: flex;
 }
 .footer-bottom{
     background-color: black;
