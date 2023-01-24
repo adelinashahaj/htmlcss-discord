@@ -172,11 +172,11 @@ h2{
     
     max-width: 1200px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 .title2{
     text-align: center;
-    margin-left: 100px;
+    
     
 }
 .jumbotron1 h1{
@@ -197,6 +197,10 @@ h2{
 }
 footer{
     background-color: black;
+}
+.jumbotron1 .image-grande{
+    width: 1000px;
+
 }
 .footer-list1{
     height: 400px;
