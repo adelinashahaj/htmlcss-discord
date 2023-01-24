@@ -40,6 +40,10 @@ span{
     border-radius: 50px;
     color: black;
 }
+.bg-butt-header{
+    background-color: black;
+    color: white;
+}
 nav{
     background-color: rgb(0, 26, 255);
    width: 60%;
@@ -95,6 +99,10 @@ h2{
 p{
     margin-bottom: 20px;
 }
+.img-main{
+    background-size: 30px;
+    padding-top: 0px;
+}
 .flex-container{
     display: flex;
     justify-content: center;
@@ -104,43 +112,47 @@ p{
 .flexcontent{
     
     border: dashed 2px;
-    height: 200px;
+    height: 400px;
     margin-top: 20px;
     margin-bottom: 20px;
     width: 100%;
 
 }
 .box-blu{
-    background-color: blue;
+    
     max-width: calc(100% / 1);
-    height: 200px;
+    height: 500px;
 }
 .box-rosa{
-    background-color: pink;
+    height: 500px;
     max-width: calc(100% / 3);
 }
 .flex1-container{
     display: flex;
     max-width: 1170px;
     margin: auto;
-    height: 400px;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
    
     
    
 
 }
 .flexcontent-b{
-    width: 60%;
-    background-color: blue;
+    width: 40%;
+    
+    
 
 }
 .flexcontent-s{
-    width: 40%;
-    background-color: pink;
+    width: 60%;
+   
 
 }
 .color-sfondo{
-    background-color: gray;
+    background-color: rgb(226, 221, 221);
 }
 
 .col-quattro{
