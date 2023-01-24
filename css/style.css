@@ -4,8 +4,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+}
 header{
-    background-color: rgb(0, 60, 255);
+    background-color: rgb(0, 98, 255);
 }
 .header-top{
     
@@ -19,16 +22,18 @@ header{
 }
 a{
     color: white;
+    text-decoration: none;
+
 }
 .logo-header{
-    background-color: rgb(0, 60, 255); 
+    background-color: rgb(0, 98, 255); 
     width: 20%;
     padding: 10px;
     text-align: left;
 
 }
 .login-header{
-    background-color: rgb(0, 60, 255);
+    background-color: rgb(0, 98, 255);
     width: 20%;
     padding: 10px;
     text-align: right;
@@ -45,7 +50,7 @@ span{
     color: white;
 }
 .nav-col{
-    background-color: rgb(0, 60, 255);
+    background-color: rgb(0, 98, 255);
    width: 60%;
    padding: 10px;
    
